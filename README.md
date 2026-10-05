@@ -156,4 +156,4 @@ Add a license before distributing or reusing this project publicly.
 
 The model predicted **NORMAL** with a confidence of **99.55%**.
 
-![Pneumonia Detection Result](docs/screenshots/result.png)
+![Pneumonia Detection Result](result.png)
