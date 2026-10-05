@@ -151,3 +151,9 @@ Evaluation accuracy: Add your measured result here
 ## License
 
 Add a license before distributing or reusing this project publicly.
+
+## Result
+
+The model predicted **NORMAL** with a confidence of **99.55%**.
+
+![Pneumonia Detection Result](docs/screenshots/result.png)
